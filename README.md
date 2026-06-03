@@ -1,6 +1,6 @@
 # AWS IR Tabletop Scenarios
 
-Community-created incident response simulation scenarios for security teams running on AWS. Designed for use with [BREACH: A Tabletop Roleplaying Game of AWS Incident Response](https://www.amazon.com/dp/B0F1FQJBP3) by Jonathan Jenkyn.
+Community-created incident response simulation scenarios for security teams running on AWS. Designed for use with [BREACH: A Tabletop Roleplaying Game of AWS Incident Response](https://www.amazon.com/BREACH-Resilience-Exercised-Containment-Roleplaying/dp/B0H1JJP7B5/) by Jonathan Jenkyn.
 
 ---
 
@@ -25,7 +25,7 @@ These scenarios are designed as companion content for **BREACH** by Jonathan Jen
 
 The genius of the system is that it makes tabletop exercises genuinely fun while surfacing real gaps in skills, access, coordination, and tooling. When someone fails a roll because their capability sheet honestly reflects limited experience with a service — that's a finding that maps directly to a training investment.
 
-👉 **[Get the book on Amazon](https://www.amazon.com/dp/B0F1FQJBP3)**
+👉 **[Get the book on Amazon](https://www.amazon.com/BREACH-Resilience-Exercised-Containment-Roleplaying/dp/B0H1JJP7B5/)**
 
 ---
 
