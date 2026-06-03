@@ -1,4 +1,4 @@
-> Community scenario designed for use with [BREACH: A Tabletop Roleplaying Game of AWS Incident Response](https://www.amazon.com/dp/B0F1FQJBP3) by Jonathan Jenkyn.
+> Community scenario designed for use with [BREACH: A Tabletop Roleplaying Game of AWS Incident Response](https://www.amazon.com/BREACH-Resilience-Exercised-Containment-Roleplaying/dp/B0H1JJP7B5/) by Jonathan Jenkyn.
 
 # The Salt Typhoon Telecom Pivot
 
